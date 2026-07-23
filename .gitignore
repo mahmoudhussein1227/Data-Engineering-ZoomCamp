@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+*.parquet
+*.json
+*.tf
+*.hcl
+*.backup
 __pycache__/
 *.py[codz]
 *$py.class
