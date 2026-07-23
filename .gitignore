@@ -4,6 +4,7 @@
 *.tf
 *.hcl
 *.backup
+*.tfstate
 __pycache__/
 *.py[codz]
 *$py.class
